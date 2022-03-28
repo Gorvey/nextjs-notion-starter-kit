@@ -7,7 +7,7 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
+  name: 'Gorvey',
   domain: 'transitivebullsh.it',
   author: 'Travis Fischer',
 
